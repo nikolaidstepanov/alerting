@@ -117,7 +117,7 @@ sum by (status) (rate(http_requests_total[5m]))
 - Token: 7429516373:AAG_FUr_RhcWa84QBTUc3s-36_TfkApT_Lc
 - Chat Id: -1002557784841
 ```
-[Инструкция по созданию чата и получению информации о нем](https://gist.github.com/nafiesl/4ad622f344cd1dc3bb1ecbe468ff9f8a]
+[Инструкция по созданию чата и получению информации о нем](https://gist.github.com/nafiesl/4ad622f344cd1dc3bb1ecbe468ff9f8a)
 
 --- 
 
