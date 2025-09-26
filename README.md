@@ -1,5 +1,7 @@
 # Практика: алерты и метрики в Kubernetes
 
+[Презентация к вебинару](https://docs.google.com/presentation/d/1ue0k6ZlDztSvI8MYf5eugydmpD_oDJB6wLfZlOqFyDA/edit?usp=drive_link)
+
 ## 1. Запуск Minikube
 Поднимаем локальный кластер Kubernetes:
 ```bash
